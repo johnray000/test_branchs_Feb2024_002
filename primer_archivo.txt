@@ -1,1 +1,5 @@
+ahora probar actualizar en github y actualizar local
+
+hecho la conexion y el push desde local
+
 probando iniciando el proyecto desde local
