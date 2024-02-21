@@ -1,3 +1,6 @@
+funciono pero tengo q recordar q debo: 
+enviar/declarar dicha rama con un push -u origin
+
 creando una rama e instalando vergas en esa rama pa ve
 
 ahora probar actualizar en github y actualizar local
